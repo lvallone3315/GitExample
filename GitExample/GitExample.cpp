@@ -3,10 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
     std::cout << "Hello World!\n";
     std::cout << "  Hello from GitExample_branch1!\n\n\n";
+    cout << "Hello using cout shorthand\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
